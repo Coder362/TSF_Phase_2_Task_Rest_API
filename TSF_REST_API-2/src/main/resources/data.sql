@@ -1,0 +1,1 @@
+insert into employee values (1,'rakesh@gmail.com','Rakesh',9090897867),(2,'ravi@gmail.com','Ravi',9090897868),(3,'ragini@gmail.com','Ragini',9090897869);
